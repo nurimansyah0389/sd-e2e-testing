@@ -1,0 +1,23 @@
+{
+  "name": "sd-e2e-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurimansyah0389/sd-e2e-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurimansyah0389/sd-e2e-testing/issues"
+  },
+  "homepage": "https://github.com/nurimansyah0389/sd-e2e-testing#readme",
+  "devDependencies": {
+    "cypress": "^3.5.0"
+  }
+}
